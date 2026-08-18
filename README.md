@@ -5,7 +5,7 @@ Potato leaf disease classifier — **early blight**, **late blight**, or
 **healthy** — built on a custom PyTorch CNN (`FINALCNN`), served through a
 FastAPI backend, with a Lovable-built UI as the frontend.
 
-**Live app:** _add your published Lovable URL here_
+**Live app:** https://cropguardleaflens.lovable.appS
 **Live API:** https://intro-to-ai-rework.onrender.com
 
 ## How it's put together
